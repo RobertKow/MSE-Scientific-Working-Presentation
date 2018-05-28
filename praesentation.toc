@@ -1,0 +1,7 @@
+\select@language {ngerman}
+\beamer@sectionintoc {1}{Einleitung}{3}{0}{1}
+\beamer@sectionintoc {2}{Hauptteil}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Gleichungen}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Abbildungen}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Tabellen}{9}{0}{2}
+\beamer@sectionintoc {3}{Zusammenfassung}{10}{0}{3}
